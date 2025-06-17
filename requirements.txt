@@ -1,0 +1,9 @@
+reportlab
+PyPDF2
+ebooklib
+beautifulsoup4
+lxml
+yfinance
+matplotlib
+pandas
+numpy
